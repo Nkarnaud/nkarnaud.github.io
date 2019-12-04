@@ -3,10 +3,10 @@ main:
   - title: "About"
     url: /about/
   - title: "Data Engineer"
-    url: /pages/dataengineer/
+    url: /dataengineer/
   - title: "Flask Tuto"
-    url: /pages/flasktuto
+    url: /flasktuto/
   - title: "Django Tuto"
-    url: /pages/djangotuto
+    url: /djangotuto/
   - title: "DevOps"
-    url: /pages/devopstuto
+    url: /devopstuto/
