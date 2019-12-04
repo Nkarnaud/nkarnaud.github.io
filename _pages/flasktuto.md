@@ -4,5 +4,5 @@ permalink: /flasktuto/
 title: "Flask tutorials"
 author_profile: true
 header:
-  "/images/background.png"
+  image: "/images/background.png"
 ---

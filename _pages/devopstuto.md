@@ -4,5 +4,5 @@ permalink: /devopstuto/
 title: "DevOps tutorials"
 author_profile: true
 header:
-  "/images/background.png"
+  image: "/images/background.png"
 ---
