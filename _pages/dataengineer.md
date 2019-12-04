@@ -1,5 +1,5 @@
 ---
 layouts: archive
-permalink: /data-engineer/
-title: "Data scraping by Arnaud Tsombeng"
+permalink: /dataengineer/
+title: "Data Engineering Post"
 author_profile: true
