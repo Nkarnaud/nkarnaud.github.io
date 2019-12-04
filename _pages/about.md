@@ -1,7 +1,7 @@
 ---
 title: "About"
-permalink: "/about"
+permalink: "/about/"
 header:
-  "/images/background.png"
+  "/images/background.jpg"
 ---
 I'm a python developer who excels at the back end with Django and flask, data analysis,data exploration data engineer.
