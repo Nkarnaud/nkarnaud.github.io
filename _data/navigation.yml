@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "About"
-    url: /pages/about/
+    url: /about/
   - title: "Data Engineer"
     url: /pages/dataengineer/
   - title: "Flask Tuto"
