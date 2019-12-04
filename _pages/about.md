@@ -4,7 +4,6 @@ permalink: "/about/"
 header:
   "/images/background.png"
 ---
-I'm a python developer who excels at the back end with Django and flask, data
-analysis,data exploration data engineer.
+I'm a python developer who excels at the backend and Data Engineering. For the backend i work mainly with Flask and Django
 
 {% include gallery id="layouts_gallery" caption="Examples of included layouts `splash`, `single`, and `archive`." %}
