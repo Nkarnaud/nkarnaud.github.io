@@ -4,9 +4,9 @@ main:
     url: /pages/about/
   - title: "Data Engineer"
     url: /pages/dataengineer/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "Flask Tuto"
+    url: /pages/flasktuto
+  - title: "Django Tuto"
+    url: /pages/djangotuto
+  - title: "DevOps"
+    url: /pages/devopstuto
