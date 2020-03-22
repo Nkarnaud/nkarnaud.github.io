@@ -8,5 +8,10 @@ main:
     url: /flasktuto/
   - title: "Django Tuto"
     url: /djangotuto/
-  - title: "DevOps"
+  - title: "DevOps Tuto"
     url: /devopstuto/
+  - title: "Front End techologies"
+    url: /frontend/
+  - title: "Projects"
+    url: /projects/
+  -
