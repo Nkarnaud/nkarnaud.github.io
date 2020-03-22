@@ -20,7 +20,7 @@ title                    : "Arnaud Tsombeng"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Arnaud Tsombeng"
-description              : "Python Developer Portfolio"
+description              : "Python Developer"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -109,7 +109,7 @@ analytics:
 author:
   name             : "Arnaud Tsombeng"
   avatar           : "/images/profile.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Python Developer Portfolio."
+  bio              : "Python Developer."
   location         : "Yaounde Cameroon"
   email            :
   links:
@@ -159,6 +159,9 @@ footer:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-LinkedIn"
       url: "https://www.linkedin.com/in/tsombeng-nkeumo-arnaud-mathias-842ba18a/"
+    - label: "Upwork"
+      icon: "fab fa-fw fa-upwork"
+      url: "https://www.upwork.com/o/profiles/users/~01657677e4bf5df93c/"
 
 
 # Reading Files
