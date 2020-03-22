@@ -10,3 +10,5 @@ main:
     url: /blog/
   - title: "Talk"
     url: /talk/
+  - title: "Contact"
+    url: /contact/
