@@ -1,17 +1,12 @@
 # main links
 main:
-  - title: "About"
-    url: /about/
-  - title: "Data Engineer"
-    url: /dataengineer/
-  - title: "Flask Tuto"
-    url: /flasktuto/
-  - title: "Django Tuto"
-    url: /djangotuto/
-  - title: "DevOps Tuto"
-    url: /devopstuto/
-  - title: "Front End techologies"
-    url: /frontend/
+  - title: "Home"
+    url: /home/
+  - title: "Tutorials"
+    url: /tutorials/
   - title: "Projects"
     url: /projects/
-  -
+  - title: "Blog"
+    url: /blog/
+  - title: "Talk"
+    url: /talk/
